@@ -1,0 +1,20 @@
+h1 + p{
+    color:rgb(76, 203, 64);
+    font-weight: 1000;
+}
+h1{
+    color: brown;
+
+}
+p::first-letter{
+    font-size: larger;
+    color: rgb(14, 107, 76);
+    font-weight: bold;
+}
+ul{
+    color: rgb(129, 89, 15); 
+}
+a:hover{
+    color:rgb(201, 138, 43)
+
+
